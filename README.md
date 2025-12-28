@@ -1,6 +1,5 @@
 # 💫 About Me
 
-I don’t collect certificates. I ship systems.
 
 🔭 Building end-to-end AI/ML projects — RAG chatbots, data pipelines, and deployed models  
 🌱 Learning ML the hard way: breaking, fixing, and scaling models (FastAPI, AWS, MLOps basics)  
