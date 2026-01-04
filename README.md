@@ -5,7 +5,7 @@
 🌱 Learning ML the hard way: breaking, fixing, and scaling models (FastAPI, AWS, MLOps basics)  
 👯 Open to collaborating on serious AI/ML projects and open-source tools  
 💬 Ask me about turning ML ideas into working products  
-⚡ Fun fact: If a project doesn’t fail at least once, I’m not learning
+
 
 
 
